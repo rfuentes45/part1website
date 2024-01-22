@@ -1,1 +1,1 @@
-# this is part 1 of my personal website
+# this is my personal website
